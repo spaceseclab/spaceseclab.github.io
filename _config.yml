@@ -1,5 +1,5 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Engineering at SpaceSec
+description: Engineering at SpaceSec is for space professionals who want to understand how cybersecurity applies to their missions. And for cybersecurity professionals who want to know how space operates. 
+#show_downloads: false
+#google_analytics:
 theme: jekyll-theme-hacker
